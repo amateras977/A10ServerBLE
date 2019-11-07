@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A10ServerBLE", "A10ServerBLE.csproj", "{9EAA8ABA-4102-4EA8-8222-0B2A992ECD16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EAA8ABA-4102-4EA8-8222-0B2A992ECD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EAA8ABA-4102-4EA8-8222-0B2A992ECD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EAA8ABA-4102-4EA8-8222-0B2A992ECD16}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9EAA8ABA-4102-4EA8-8222-0B2A992ECD16}.Debug|x64.Build.0 = Debug|Any CPU
+		{9EAA8ABA-4102-4EA8-8222-0B2A992ECD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EAA8ABA-4102-4EA8-8222-0B2A992ECD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EAA8ABA-4102-4EA8-8222-0B2A992ECD16}.Release|x64.ActiveCfg = Release|Any CPU
+		{9EAA8ABA-4102-4EA8-8222-0B2A992ECD16}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1682ED-5C17-4BD5-80A8-38617C0375B0}
+	EndGlobalSection
+EndGlobal
