@@ -5,10 +5,10 @@ Vorze製電動オナホールをRESTAPIで制御できるWebサーバ
 
 - 対応デバイス
   - [A10ピストンSA](https://www.vorze.jp/a10pistonsa/)
-  - [A10サイクロンSA](https://www.vorze.jp/a10cyclonesa/)
+  ~- [A10サイクロンSA](https://www.vorze.jp/a10cyclonesa/)~
   - [UFOSA](https://www.vorze.jp/ufosa/)
 
-
+- A10サイクロンSA用の実装もあるが、動作報告がないため対象外。作者が実機を所持していないため、動作確認困難。
 
 
 ## 使い方
@@ -23,7 +23,7 @@ Vorze製電動オナホールをRESTAPIで制御できるWebサーバ
 - PC
   - Windows10 バージョン1903以降
 - 対象デバイスを1台以上
-  - A10サイクロンSA
+~  - A10サイクロンSA~
   - A10ピストンSA
   - UFOSA
 - Bluetoothアダプタもしくは、Bluetoothに接続できるPC
