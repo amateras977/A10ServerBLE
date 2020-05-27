@@ -6,8 +6,8 @@ Vorze製電動オナホールをRESTAPIで制御できるWebサーバ
 - 対応デバイス
   - [A10ピストンSA](https://www.vorze.jp/a10pistonsa/)
   - [UFOSA](https://www.vorze.jp/ufosa/)
-  - [A10サイクロンSA+](https://www.vorze.jp/a10cyclonesa/)
-    - SA+のみ動作報告あり。旧型は動作しない模様
+  - ~~[A10サイクロンSA+](https://www.vorze.jp/a10cyclonesa/)~~
+    - 動作する/しないという報告が両方あり。動作不良の原因が特定できないため、対応デバイスより除外
 
 
 ## 使い方
